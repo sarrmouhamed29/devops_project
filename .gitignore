@@ -1,0 +1,14 @@
+# Fichiers d'environnement
+.env
+devops_env
+.venv
+
+# Dossiers Python à ignorer
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs et fichiers temporaires
+*.log
+tmp/
